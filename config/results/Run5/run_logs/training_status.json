@@ -1,0 +1,47 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 999864,
+                "file_path": "results\\Run5\\My Behavior\\My Behavior-999864.nn",
+                "reward": -3.628000030517578,
+                "creation_time": 1604065147.6408348
+            },
+            {
+                "steps": 1499860,
+                "file_path": "results\\Run5\\My Behavior\\My Behavior-1499860.nn",
+                "reward": 4.197183088517525,
+                "creation_time": 1604067670.0498781
+            },
+            {
+                "steps": 1999906,
+                "file_path": "results\\Run5\\My Behavior\\My Behavior-1999906.nn",
+                "reward": -2.206024086618998,
+                "creation_time": 1604070220.9385147
+            },
+            {
+                "steps": 2499979,
+                "file_path": "results\\Run5\\My Behavior\\My Behavior-2499979.nn",
+                "reward": 2.8562500377496085,
+                "creation_time": 1604073080.922206
+            },
+            {
+                "steps": 2670656,
+                "file_path": "results\\Run5\\My Behavior\\My Behavior-2670656.nn",
+                "reward": 3.7397590602736877,
+                "creation_time": 1604074089.6944675
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2670656,
+            "file_path": "results\\Run5\\My Behavior.nn",
+            "reward": 3.7397590602736877,
+            "creation_time": 1604074089.6944675
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.1"
+    }
+}

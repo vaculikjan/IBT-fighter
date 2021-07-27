@@ -1,0 +1,48 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 1499959,
+                "file_path": "results\\FighterUpdated1\\My Behavior\\My Behavior-1499959.onnx",
+                "reward": -0.12188843800786227,
+                "creation_time": 1616625282.052282
+            },
+            {
+                "steps": 1649946,
+                "file_path": "results\\FighterUpdated1\\My Behavior\\My Behavior-1649946.onnx",
+                "reward": 0.4881579013247239,
+                "creation_time": 1616625733.652145
+            },
+            {
+                "steps": 1654770,
+                "file_path": "results\\FighterUpdated1\\My Behavior\\My Behavior-1654770.onnx",
+                "reward": -3.7545454429857656,
+                "creation_time": 1616625874.670502
+            },
+            {
+                "steps": 1655635,
+                "file_path": "results\\FighterUpdated1\\My Behavior\\My Behavior-1655635.onnx",
+                "reward": 3.359259322837547,
+                "creation_time": 1616625897.4359174
+            },
+            {
+                "steps": 1674334,
+                "file_path": "results\\FighterUpdated1\\My Behavior\\My Behavior-1674334.onnx",
+                "reward": -0.08016083898876691,
+                "creation_time": 1616625992.7862818
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1674334,
+            "file_path": "results\\FighterUpdated1\\My Behavior.onnx",
+            "reward": -0.08016083898876691,
+            "creation_time": 1616625992.7862818
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}

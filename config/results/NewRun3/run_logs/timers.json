@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1611682286",
+        "python_version": "3.8.7 (tags/v3.8.7:6503f05, Dec 21 2020, 17:59:51) [MSC v.1928 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\bioba\\AppData\\Local\\Programs\\Python\\Python38\\Scripts\\mlagents-learn .\\fighting_config.yaml --run-id=NewRun3",
+        "mlagents_version": "0.23.0",
+        "mlagents_envs_version": "0.23.0",
+        "communication_protocol_version": "1.3.0",
+        "pytorch_version": "1.7.0+cu110",
+        "numpy_version": "1.18.5",
+        "end_time_seconds": "1611682298"
+    },
+    "total": 12.399576600000001,
+    "count": 1,
+    "self": 0.004485400000000084,
+    "children": {
+        "run_training.setup": {
+            "total": 0.005756199999999989,
+            "count": 1,
+            "self": 0.005756199999999989
+        },
+        "TrainerController.start_learning": {
+            "total": 12.389335,
+            "count": 1,
+            "self": 0.0007984000000043068,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 12.388354399999999,
+                    "count": 1,
+                    "self": 12.388354399999999
+                },
+                "trainer_threads": {
+                    "total": 7.999999986907369e-07,
+                    "count": 1,
+                    "self": 7.999999986907369e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 0.000181399999998888,
+                    "count": 1,
+                    "self": 0.000181399999998888
+                }
+            }
+        }
+    }
+}

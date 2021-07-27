@@ -1,0 +1,29 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499449,
+                "file_path": "results\\Run3\\My Behavior\\My Behavior-499449.nn",
+                "reward": -1.0187499880790711,
+                "creation_time": 1604017958.4496298
+            },
+            {
+                "steps": 595542,
+                "file_path": "results\\Run3\\My Behavior\\My Behavior-595542.nn",
+                "reward": -0.8882352709770203,
+                "creation_time": 1604018445.2733257
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 595542,
+            "file_path": "results\\Run3\\My Behavior.nn",
+            "reward": -0.8882352709770203,
+            "creation_time": 1604018445.2733257
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.1"
+    }
+}
